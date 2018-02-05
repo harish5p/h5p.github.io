@@ -7,7 +7,7 @@ The ABC of selling is ‘Always Be Closing’, this phrase/motto/concept is taug
 every salesperson in their first course. And it works great in B2C sales.
 But it can act against you, if you’re involved in B2B. I’ll explain how and why.
 
-![_config.yml]({{ site.baseurl }}/images/abcs-of-selling.png)
+![_config.yml]({{ site.baseurl }}/images/abcs-of-selling.jpg)
 
 title: WHY IT WORKS IN B2C SMALL SALES:
 
