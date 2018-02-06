@@ -12,4 +12,6 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
+Thank you for visiting my website!
+If you have an offer or just want to say hi, you can contact me by sending an email at
 [harish.pentapalli@gmail.com](mailto:harish.pentapalli@gmail.com)
